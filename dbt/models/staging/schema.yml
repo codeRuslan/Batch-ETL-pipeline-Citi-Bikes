@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+    - name: staging
+      database: batch-pipeline-bike
+      schema: trips_data_all
+
+      tables:
+        - name: citibike_tripdata
