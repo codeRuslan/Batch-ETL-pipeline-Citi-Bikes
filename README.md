@@ -34,3 +34,9 @@ Technologies:
 3. dm_monthly_zone_revenue_trip_stats.sql - were used to create grouped values by month.
 
 ![image](https://snipboard.io/QhD6En.jpg)
+
+## Final visualization
+
+I have used Google Data Studio, because it was the fastest and easiest way to implement visualization from BigQuery. But still PowerBI and Tableau could also be used.
+
+![image](https://snipboard.io/ObElAJ.jpg)
