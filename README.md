@@ -29,4 +29,8 @@ Technologies:
 5. Data visualized with Google Data Studio
 
 ## Detailed dbt transformation
+1. stg_citibike_tripdata.sql - were used in order to cast all features and to create key for dataframe.
+2. fact_citibike_trips.sql - were used to get the most vital data, that would be used for viz
+3. dm_monthly_zone_revenue_trip_stats.sql - were used to create grouped values by month.
+
 ![image](https://snipboard.io/QhD6En.jpg)
