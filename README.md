@@ -37,6 +37,6 @@ Technologies:
 
 ## Final visualization
 
-I have used Google Data Studio, because it was the fastest and easiest way to implement visualization from BigQuery. But still PowerBI and Tableau could also be used.
+I have used Google Data Studio, because it was the fastest and easiest way to implement visualization from BigQuery. But still PowerBI and Tableau could also be used. Also, Google Data Studio the most easiest way to implement auto-refresh of dashboard, while with Power BI it is harder, but still fine. Tableau would be the hardest to set-up auto-refresh, as you would have to set-up seperate database and stream data from it, as Tableau does not support natively auto-refresh from BigQuery.
 
 ![image](https://snipboard.io/ObElAJ.jpg)
