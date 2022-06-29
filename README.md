@@ -27,3 +27,6 @@ Technologies:
 3. Data uploaded into dbt Cloud via supported integration with BigQuery
 4. Data transformed in dbt Cloud and uploaded back into BigQuery
 5. Data visualized with Google Data Studio
+
+## Detailed dbt transformation
+![image](https://snipboard.io/QhD6En.jpg)
